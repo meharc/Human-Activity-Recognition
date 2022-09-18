@@ -3,7 +3,9 @@ The project aims to provide a comparative analysis of the benefits of using repr
 
 • Balancing imbalanced time series data.
 • Scaling the features.
+
 • Transforming data using sliding window.
+
 • Comparative analysis of representation methods — raw data, PCA, KPCA, Laplacian Eigenmaps
 • Classification performance comparison between kNN and KSVM
 
