@@ -17,6 +17,7 @@ The following specifications will help run the project:
 
 • Download the zip folder and run the jupyter notebook— **script-HAR.ipynb** cell by cell.
 
+• The results for the project are available in the **results** folder.
 
 
 
