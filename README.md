@@ -15,9 +15,9 @@ The following specifications will help run the project:
 
 • The input data is provided in the input folder.
 
-• Download the zip folder and run the jupyter notebook— **script-HAR.ipynb** cell by cell.
+• Download the zip folder and run the jupyter notebook— *script-HAR.ipynb* cell by cell.
 
-• The results for the project are available in the **results** folder.
+• The results for the project are available in the *results* folder.
 
 
 
